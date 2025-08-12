@@ -1,4 +1,16 @@
+nav:
+  - Homepage:
+      - index.md
+plugins:
+  - search
 site_name: Ankeny Northview PTO
 site_url: https://ptonorthview.org
 theme:
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
   name: material
+  palette:
+    primary: blue grey

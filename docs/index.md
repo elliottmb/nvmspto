@@ -3,13 +3,17 @@
 We are looking forward to organizing this for the 2025-26 school year with your support to show our appreciation for
 Northview Middle School! Our first meeting will be TBA.
 
-## Dear Northview Parents, Friends, and Families
+## About us
+
+** Dear Northview Parents, Friends, and Families**
 
 **The Northview Middle School Parent Teacher Organization Mission is to support the Northview staff, administration,
 support staff and enrich the educational opportunities for students at our school.** We represent the parents of all
 Northview students and will work to support positive relationships between parents, students and staff. As a PTO, we are
 committed to fostering a sense of community and camaraderie among families and staff. We are committed to our mission
 and want to be supporting our amazing staff and students.
+
+## How we help
 
 **The role of NV PTO is to support our Northview staff and students through funding of events, recognitions, and
 providing needed materials.**
