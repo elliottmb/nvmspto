@@ -1,11 +1,20 @@
+---
+hide:
+  - navigation
+---
+
 # Ankeny Northview PTO
 
 We are looking forward to organizing this for the 2025-26 school year with your support to show our appreciation for
-Northview Middle School! Our first meeting will be TBA.
+Northview Middle School!
+
+!!! info "First meeting"
+
+    Our first meeting is 7 pm, September 15th at Northview Middle School!
 
 ## About us
 
-** Dear Northview Parents, Friends, and Families**
+**Dear Northview Parents, Friends, and Families,**
 
 **The Northview Middle School Parent Teacher Organization Mission is to support the Northview staff, administration,
 support staff and enrich the educational opportunities for students at our school.** We represent the parents of all

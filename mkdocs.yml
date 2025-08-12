@@ -1,7 +1,14 @@
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   - Homepage:
       - index.md
+  - Announcements:
+      - blog/index.md
 plugins:
+  - blog
   - search
 site_name: Ankeny Northview PTO
 site_url: https://ptonorthview.org
@@ -11,6 +18,7 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
+    - toc.follow
   name: material
   palette:
     primary: blue grey
