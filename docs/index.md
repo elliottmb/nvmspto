@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Ankeny Northview PTO
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We are looking forward to organizing this for the 2025-26 school year with your support to show our appreciation for
+Northview Middle School! Our first meeting will be TBA.
 
-## Commands
+## Dear Northview Parents, Friends, and Families
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**The Northview Middle School Parent Teacher Organization Mission is to support the Northview staff, administration,
+support staff and enrich the educational opportunities for students at our school.** We represent the parents of all
+Northview students and will work to support positive relationships between parents, students and staff. As a PTO, we are
+committed to fostering a sense of community and camaraderie among families and staff. We are committed to our mission
+and want to be supporting our amazing staff and students.
 
-## Project layout
+**The role of NV PTO is to support our Northview staff and students through funding of events, recognitions, and
+providing needed materials.**
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Examples include:
+
+- Parent/Teacher Conferences
+- Amazon gift card – Nurses Office for Emergency clothing/supplies
+- Bulletin boards/flexible seating options for our Library
+- Administration, Certified Staff and Support Staff Recognitions
+- Additional classroom request from teachers – Application process per/semester, upon approval from the PTO
