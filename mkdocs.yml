@@ -15,9 +15,13 @@ site_url: https://ptonorthview.org
 theme:
   features:
     - navigation.indexes
+    - navigation.instant
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+    - search.suggest
     - toc.follow
   name: material
   palette:
