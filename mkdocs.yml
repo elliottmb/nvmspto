@@ -24,6 +24,8 @@ theme:
     - search.highlight
     - search.suggest
     - toc.follow
+  icon:
+    logo: material/chair-school
   name: material
   palette: 
     # Palette toggle for light mode
