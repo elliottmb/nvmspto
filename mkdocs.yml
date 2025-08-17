@@ -14,6 +14,7 @@ site_name: Ankeny Northview PTO
 site_url: https://ptonorthview.org
 theme:
   features:
+    - header.autohide
     - navigation.indexes
     - navigation.instant
     - navigation.sections
