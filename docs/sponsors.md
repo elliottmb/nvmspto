@@ -6,7 +6,7 @@ hide:
 
 # Sponsors
 
-Thank you to all of our sponsors, making the school year at Ankeny Northview Middle School even better!
+Thank you to all of our sponsors for making the school year at Ankeny Northview Middle School even better!
 
 <figure markdown="span">
   <a href="https://www.caseys.com/">
