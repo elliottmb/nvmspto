@@ -41,12 +41,12 @@ theme:
   icon:
     logo: material/chair-school
   name: material
-  palette: 
+  palette:
     # Palette toggle for light mode
     - scheme: default
       primary: blue grey
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
