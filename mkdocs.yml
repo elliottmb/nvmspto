@@ -20,6 +20,7 @@ nav:
   - Sponsors: sponsors.md
   - Announcements:
       - blog/index.md
+  - Board: board.md
 plugins:
   - blog
   - search
