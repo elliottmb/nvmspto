@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Board members
 
 This school year’s PTO board members are:
