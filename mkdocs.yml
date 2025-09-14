@@ -42,6 +42,7 @@ theme:
   icon:
     logo: material/chair-school
   name: material
+  custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
