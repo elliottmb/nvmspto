@@ -5,6 +5,10 @@ hide:
 
 # Ankeny Northview PTO
 
+<figure markdown="span">
+  ![Northview PTO](assets/northview.jpg){ width="300" }
+</figure>
+
 We are looking forward to organizing this for the 2025-26 school year with your support to show our appreciation for
 Northview Middle School!
 
