@@ -39,7 +39,7 @@ Examples include:
 
 <figure markdown="span">
   <a href="https://square.link/u/vAIrUPht">
-    ![Square Donation](assets/square-donation.png)
+    ![Square Donation](assets/square-donation.png){ width="300" }
     <figcaption>https://square.link/u/vAIrUPht</figcaption>
   </a>
 </figure>
