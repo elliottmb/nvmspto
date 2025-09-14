@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - title
 ---
 
 # Ankeny Northview PTO
