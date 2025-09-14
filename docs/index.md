@@ -2,9 +2,8 @@
 hide:
   - navigation
 template: home.html
+title: Ankeny Northview PTO
 ---
-
-# Ankeny Northview PTO
 
 <figure markdown="span">
   ![Northview PTO](assets/northview.jpg)
