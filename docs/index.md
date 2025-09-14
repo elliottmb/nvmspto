@@ -34,3 +34,12 @@ Examples include:
 - Bulletin boards/flexible seating options for our Library
 - Administration, Certified Staff and Support Staff Recognitions
 - Additional classroom request from teachers – Application process per/semester, upon approval from the PTO
+
+## Donations
+
+<figure markdown="span">
+  <a href="https://square.link/u/vAIrUPht">
+    ![Square Donation](assets/square-donation.png)
+    <figcaption>https://square.link/u/vAIrUPht</figcaption>
+  </a>
+</figure>
