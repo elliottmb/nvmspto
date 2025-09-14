@@ -28,7 +28,7 @@ Northview students and will work to support positive relationships between paren
 committed to fostering a sense of community and camaraderie among families and staff. We are committed to our mission
 and want to be supporting our amazing staff and students.
 
-You can reach the PTO at: <ankenynorthviewpto@gmail.com> and check out our [facebook page](https://www.facebook.com/people/Northview-PTO/61577645524770/)!
+You can reach the PTO at <ankenynorthviewpto@gmail.com> and check out our [facebook page](https://www.facebook.com/people/Northview-PTO/61577645524770/)!
 
 ## How we help
 
