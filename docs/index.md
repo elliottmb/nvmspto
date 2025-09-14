@@ -14,7 +14,9 @@ Northview Middle School!
 
 !!! info "First meeting"
 
-    Our first meeting is 7 pm, September 15th at Northview Middle School!
+    Our first meeting is 7 pm, September 15th at Northview Middle School! 
+    
+    We'll be meeting in the Community Conference room, which is located in the Student Services office.
 
 ## About us
 
