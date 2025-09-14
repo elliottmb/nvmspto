@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+template: home.html
 ---
 
 # Ankeny Northview PTO
