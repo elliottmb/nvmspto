@@ -12,11 +12,11 @@ title: Ankeny Northview PTO
 We are looking forward to organizing this for the 2025-26 school year with your support to show our appreciation for
 Northview Middle School!
 
-!!! info "First meeting"
+!!! info "Spirit Wear"
 
-    Our first meeting is 7 pm, September 15th at Northview Middle School! 
+    The Ankeny Northview PTO is excited to announce that spirit wear is now available! 🎉
     
-    We'll be meeting in the Community Conference room, which is located in the Student Services office.
+    [Shop the collection here](https://1stplacespiritwear.com/schools/IA/Ankeny/Northview+Middle+School/collection_detail.html) and show your Northview pride!
 
 ## About us
 
